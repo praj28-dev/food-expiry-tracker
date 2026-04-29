@@ -4,8 +4,33 @@ A smart expiry tracking Progressive Web App built for
 retail convenience stores like 7-Eleven.
 
 ## The Problem
-Staff were checking expiry alerts and rushing to discount 
-items that were already sold — completely wasted effort.
+## The Problem
+At store level, expiry tracking for perishable items 
+is entirely manual. Staff physically mark expiry dates 
+by hand and check every shift to see if items have expired.
+
+Perishable items tracked include:
+- Fresh sandwiches and wraps
+- Muffins, cakes and slices
+- Flavoured milk and dairy products
+- Ready meals and meal bowls
+- Hot pastry rolls and pies
+- Fresh bread loaves
+
+Non-perishable items such as chips, chocolates, 
+juices, energy drinks and confectionery are 
+NOT tracked — these have long shelf lives and 
+do not require shift-by-shift monitoring.
+
+This manual process has no connection to stock levels —
+staff rush to discount or remove an item only to 
+discover it was already sold, making the check 
+completely wasted effort.
+
+There is no system that tells staff:
+→ What perishable items are expiring today or tomorrow
+→ Whether that item is still on the shelf
+→ Whether action is actually needed
 
 ## The Solution
 An expiry tracking system that links delivery data with 
